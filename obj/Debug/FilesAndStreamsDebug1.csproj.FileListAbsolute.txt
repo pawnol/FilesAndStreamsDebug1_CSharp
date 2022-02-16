@@ -1,0 +1,7 @@
+\\et-fileserver\staff\pawnol\Desktop\FilesAndStreamsDebug1\bin\Debug\FilesAndStreamsDebug1.exe.config
+\\et-fileserver\staff\pawnol\Desktop\FilesAndStreamsDebug1\bin\Debug\FilesAndStreamsDebug1.exe
+\\et-fileserver\staff\pawnol\Desktop\FilesAndStreamsDebug1\bin\Debug\FilesAndStreamsDebug1.pdb
+\\et-fileserver\staff\pawnol\Desktop\FilesAndStreamsDebug1\obj\Debug\FilesAndStreamsDebug1.csproj.AssemblyReference.cache
+\\et-fileserver\staff\pawnol\Desktop\FilesAndStreamsDebug1\obj\Debug\FilesAndStreamsDebug1.csproj.CoreCompileInputs.cache
+\\et-fileserver\staff\pawnol\Desktop\FilesAndStreamsDebug1\obj\Debug\FilesAndStreamsDebug1.exe
+\\et-fileserver\staff\pawnol\Desktop\FilesAndStreamsDebug1\obj\Debug\FilesAndStreamsDebug1.pdb
